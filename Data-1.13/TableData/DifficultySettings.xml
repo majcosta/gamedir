@@ -351,8 +351,8 @@
 		<WeaponCacheTroops4>2</WeaponCacheTroops4>
 		<WeaponCacheTroops5>2</WeaponCacheTroops5>
 		<!-- Strategic Other -->
-		<UpgradeAdminsToTroops>0</UpgradeAdminsToTroops>
-		<UpgradeGarrisonsAdminsToTroops>0</UpgradeGarrisonsAdminsToTroops>
+		<UpgradeAdminsToTroops>1</UpgradeAdminsToTroops>
+		<UpgradeGarrisonsAdminsToTroops>1</UpgradeGarrisonsAdminsToTroops>
 		<AlwaysUpGradeAdminsToTroopsProgress>30</AlwaysUpGradeAdminsToTroopsProgress>
 		<LevelModifierLowLimit>0</LevelModifierLowLimit>
 		<LevelModifierHighLimit>0</LevelModifierHighLimit>
@@ -368,10 +368,10 @@
 		<!-- CTHConstants Settings -->
 		<CthConstantsAimDifficulty>0.0</CthConstantsAimDifficulty>
 		<CthConstantsBaseDifficulty>0.0</CthConstantsBaseDifficulty>
-		<CthConstantsAimDifficultyMilitia>10.0</CthConstantsAimDifficultyMilitia>
-		<CthConstantsBaseDifficultyMilitia>10.0</CthConstantsBaseDifficultyMilitia>
-		<CthConstantsAimDifficultyPlayer>10.0</CthConstantsAimDifficultyPlayer>
-		<CthConstantsBaseDifficultyPlayer>10.0</CthConstantsBaseDifficultyPlayer>
+		<CthConstantsAimDifficultyMilitia>0.0</CthConstantsAimDifficultyMilitia>
+		<CthConstantsBaseDifficultyMilitia>0.0</CthConstantsBaseDifficultyMilitia>
+		<CthConstantsAimDifficultyPlayer>0.0</CthConstantsAimDifficultyPlayer>
+		<CthConstantsBaseDifficultyPlayer>0.0</CthConstantsBaseDifficultyPlayer>
 	</DIFFICULTY>
 	<DIFFICULTY>
 		<uiIndex>3</uiIndex>
@@ -419,8 +419,8 @@
 		<StrategicAiActionWakeQueen>1</StrategicAiActionWakeQueen>
 		<UpdateLastDayOfPlayerActivity>2</UpdateLastDayOfPlayerActivity>
 		<ChanceOfEnemyAmbushes>12</ChanceOfEnemyAmbushes>
-		<AllowReinforcements>1</AllowReinforcements>
-		<AllowReinforcementsOmerta>1</AllowReinforcementsOmerta>
+		<AllowReinforcements>0</AllowReinforcements>
+		<AllowReinforcementsOmerta>0</AllowReinforcementsOmerta>
 		<PopulationLevel2>1</PopulationLevel2>
 		<PopulationLevel3>1</PopulationLevel3>
 		<!-- Weapon Cache Troops -->
@@ -445,8 +445,8 @@
 		<EnemyMoraleWorried>0</EnemyMoraleWorried>
 		<MaxMortarsPerTeam>1</MaxMortarsPerTeam>
 		<!-- CTHConstants Settings -->
-		<CthConstantsAimDifficulty>20.0</CthConstantsAimDifficulty>
-		<CthConstantsBaseDifficulty>20.0</CthConstantsBaseDifficulty>
+		<CthConstantsAimDifficulty>0.0</CthConstantsAimDifficulty>
+		<CthConstantsBaseDifficulty>0.0</CthConstantsBaseDifficulty>
 		<CthConstantsAimDifficultyMilitia>0.0</CthConstantsAimDifficultyMilitia>
 		<CthConstantsBaseDifficultyMilitia>0.0</CthConstantsBaseDifficultyMilitia>
 		<CthConstantsAimDifficultyPlayer>0.0</CthConstantsAimDifficultyPlayer>
